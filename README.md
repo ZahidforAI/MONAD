@@ -1,10 +1,6 @@
 # ⨀ Monad: A Beginner’s Guide to the Fast Blockchain
-
 ![My Image](MonadLogo.png)
-
-
 ---
-
 ## ⨀ **What is Monad?** (The Big Picture)
 
 ### **The Problem with Existing Blockchains**
@@ -31,7 +27,7 @@ Monad is like a **100-lane mega supermarket**:
 ## 🔧 **How Monad Works** (Like Clockwork)
 
 ### 1. **The Global Team of Validators** 👥
-![Validators](https://example.com/validators.png)
+![Validators](validators.png)
 
 - **What They Do**: A network of 100-200 computers worldwide that:
   - Verify transactions
@@ -62,7 +58,7 @@ Imagine validators as chefs in a pizza kitchen:
 
 ## 🛠️ Monad’s Secret Tech Sauce (Simplified)
 ### 1. MonadBFT Consensus 🤝
-Consensus Flow
+![Monad BFT](monadbft.jpg)
 
 - **How It Works:**
 
@@ -81,7 +77,6 @@ Consensus Flow
   - Like a perfectly coordinated flash mob
 
 ### 2. RaptorCast 📡 (Data Broadcasting Magic)
-RaptorCast
 
 - **The Problem:**
 
@@ -107,7 +102,8 @@ RaptorCast
 
 ## ⚡ Parallel Execution Engine (The Speed Demon)
 ### 1. Optimistic Parallel Processing 🏎️
-Parallel Execution
+![My Image](parallel.png)
+
 
 - **How It Works:**
 
@@ -141,6 +137,8 @@ Parallel Execution
   - Uses SSDs efficiently (no wasted space)
  
 ## 🔄 Life of a Transaction (From Start to Finish)
+![process](work.PNG)
+
 1. You Click "Send" (0s)
 
 2. Validators Receive (0.1s)
