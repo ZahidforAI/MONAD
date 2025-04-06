@@ -1,5 +1,6 @@
 # ⨀ Monad: A Beginner’s Guide to the Fast Blockchain
 
+![My Image](MonadLogo.png)
 
 
 ---
